@@ -1,5 +1,3 @@
-// Dividir: Divide
-
 /**
  * Check if all variables are valid numbers.
  * @param  {any} variables
